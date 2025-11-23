@@ -1,2 +1,3 @@
 # git-practice-ifrah
-my first git assignment repository for learning version control
+Hi ! myself Ifrah
+Working on my git assignment ..................
